@@ -1,2 +1,3 @@
 # hurunbaifubang
 这是个爬取胡润百富榜信息并数据分析的python代码
+图片为可视化的分析结果
